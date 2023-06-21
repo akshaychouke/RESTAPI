@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Akshay",
+    "price": 145,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Aman",
+    "price": 522,
+    "featured": false,
+    "company": "mi"
+  },
+  {
+    "name": "iphone",
+    "price": 50000,
+    "featured": true,
+    "company": "apple"
+  },
+  {
+    "name": "Ideapad",
+    "price": 300452,
+    "featured": true,
+    "company": "mi"
+  },
+  {
+    "name": "galaxy",
+    "price": 25000,
+    "featured": true,
+    "company": "samsung"
+  },
+  {
+    "name": "Reno7",
+    "price": 6654,
+    "featured": false,
+    "company": "oppo"
+  }
+]
